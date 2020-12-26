@@ -3,5 +3,12 @@
 Das Programm kann alles
 """
 
-if __name__ == "__main__":
+
+def main():
+    """Hauptroutine
+    """
     print("Hallo Welt")
+
+
+if __name__ == "__main__":
+    main()
